@@ -1,2 +1,4 @@
 .venv
 .pytest_cache
+mlartifacts
+mlflow.db
